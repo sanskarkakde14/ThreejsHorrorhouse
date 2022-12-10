@@ -1,4 +1,4 @@
-# Three.js Journey
+Horror House
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +14,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## A 3D interactive space with a scary house effect made with THREE.JS, WebGl and WebPack Bundler..
+##Geometries have been added with the use of geometries available in three.js itself, mutiple textures are used which is in static folder.
