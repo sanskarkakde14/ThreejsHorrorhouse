@@ -1,4 +1,4 @@
-Horror House ------ > https://threehorrorsanskar.netlify.app/
+# Horror House ------ > https://threehorrorsanskar.netlify.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
